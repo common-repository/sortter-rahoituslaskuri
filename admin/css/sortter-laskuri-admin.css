@@ -1,0 +1,61 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+#sortter-laskuri-admin {
+    font-size: 14px;
+    line-height: 1.25;
+}
+#sortter-laskuri-admin p, 
+#sortter-laskuri-admin span, 
+#sortter-laskuri-admin a {
+    font-size: 1em;
+}
+
+#sortter-laskuri-admin h2 {
+    font-size: 1.5em;
+}
+
+#sortter-laskuri-admin h3 {
+    font-size: 1.25em;
+}
+
+@media (min-width: 768px) {
+    #sortter-laskuri-admin {
+        font-size: 16px;
+    }
+}
+@media (min-width: 1440px) {
+    #sortter-laskuri-admin {
+        font-size: 18px;
+    }
+}
+
+
+ #sortter-laskuri-admin header {
+    padding-top: 18px;
+    padding-bottom: 18px;
+ }
+
+#ad-image-wrapper img {
+    max-width: 65ch;
+    height: auto;
+    object-position: center;
+    object-fit: cover;
+    border-radius: 5px;
+    border: none;
+}
+.legend[data-for^="sortter"] {
+    display: block;
+    font-size: 13px;
+    line-height: 1.5;
+    margin: .5em 0 1em;
+}
+.add-on[data-for^="sortter"] {
+    font-weight: bold;
+    display: inline-block;
+    width: 1rem;
+    padding-right: 1rem;
+    height: auto;
+    vertical-align: top;
+}

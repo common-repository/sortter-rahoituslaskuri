@@ -1,0 +1,153 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sortter Rahoituslaskuri\n"
+"POT-Creation-Date: 2022-03-16 21:03+0200\n"
+"PO-Revision-Date: 2022-03-16 21:01+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: sortter-laskuri.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-sortter-laskuri-admin.php:131
+msgid ""
+"Asetuksen luomisessa tapahtui virhe - ole hyvä ja yritä uudelleen. Jos "
+"ongelma toistuu, ota yhteys lisäosan kehittäjään."
+msgstr ""
+
+#: admin/class-sortter-laskuri-admin.php:164
+msgid "Kauppiastunnus"
+msgstr ""
+
+#: admin/class-sortter-laskuri-admin.php:169
+msgid "Esimerkiksi Y-tunnus"
+msgstr ""
+
+#: admin/class-sortter-laskuri-admin.php:173
+msgid "Laina-aika"
+msgstr ""
+
+#: admin/class-sortter-laskuri-admin.php:173
+#: public/partials/sortter-laskuri-public-form-display.php:75
+msgid "vuotta"
+msgstr ""
+
+#: admin/class-sortter-laskuri-admin.php:181
+#: admin/class-sortter-laskuri-admin.php:192
+msgid "Vähintään"
+msgstr ""
+
+#: admin/class-sortter-laskuri-admin.php:181
+#: admin/class-sortter-laskuri-admin.php:192
+msgid "Enintään"
+msgstr ""
+
+#: admin/class-sortter-laskuri-admin.php:185
+msgid "Summa"
+msgstr ""
+
+#: admin/class-sortter-laskuri-admin.php:232
+msgid "Aseta oletusarvot Sortter Rahoituslaskuriin:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/partials/sortter-laskuri-admin-display.php:19
+msgid "Sortter Rahoituslaskuri"
+msgstr ""
+
+#: admin/partials/sortter-laskuri-admin-display.php:30
+msgid ""
+"Käyttöohje - Sortter Rahoituslaskurin lisääminen sivustolle / verkkokauppaan"
+msgstr ""
+
+#: admin/partials/sortter-laskuri-admin-display.php:31
+msgid "Automaattisesti luotu sivu"
+msgstr ""
+
+#: admin/partials/sortter-laskuri-admin-display.php:32
+msgid ""
+"Asentaessasi lisäosan, loimme sivuihisi automaattisesti uuden Sortter "
+"Rahoituslaskuri -sivun. Sivulle olemme kirjoittaneet valmiiksi tietoa "
+"rahoituksen kilpailuttamisesta Sortterin avulla. Luodulta sivulta löytyy "
+"lisäksi Sortter Rahoituslaskuri."
+msgstr ""
+
+#: admin/partials/sortter-laskuri-admin-display.php:34
+msgid "lomake"
+msgstr ""
+
+#: admin/partials/sortter-laskuri-admin-display.php:35
+msgid ""
+"Kun haluat sivulle Sortter Rahoituslaskuri -lomakkeen, lisää alla oleva "
+"lyhytkoodi haluamallesi sivulle."
+msgstr ""
+
+#: admin/partials/sortter-laskuri-admin-display.php:39
+msgid ""
+"Kun haluat sivulle painikkeen joka aukaisee Sortter Rahoituslaskurin pop-"
+"upissa, lisää alla oleva lyhytkoodi haluamallesi sivulle."
+msgstr ""
+
+#: admin/partials/sortter-laskuri-admin-display.php:41
+msgid ""
+"Voit tyylitellä painiketta, käyttämällä seuraavia lyhytkoodin lisäasetuksia"
+msgstr ""
+
+#: admin/partials/sortter-laskuri-admin-display.php:44
+msgid "Taustaväri"
+msgstr ""
+
+#: admin/partials/sortter-laskuri-admin-display.php:45
+msgid "Tekstin väri"
+msgstr ""
+
+#: admin/partials/sortter-laskuri-admin-display.php:46
+msgid "CSS-luokka"
+msgstr ""
+
+#: admin/partials/sortter-laskuri-admin-display.php:49
+msgid "Kaikkia asetuksia on mahdollista käyttää myös yhtäaikaisesti"
+msgstr ""
+
+#: admin/partials/sortter-laskuri-admin-display.php:50
+msgid "Lue lisää lyhytkoodien käytöstä:"
+msgstr ""
+
+#: admin/partials/sortter-laskuri-admin-display.php:50
+msgid "shortcodes"
+msgstr ""
+
+#: admin/partials/sortter-laskuri-admin-settings-display.php:18
+msgid "Sortter Rahoituslaskuri - Kauppiasasetukset"
+msgstr ""
+
+#: admin/partials/sortter-laskuri-admin-settings-display.php:25
+msgid "Tallenna asetukset"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Sortter Rahoituslaskuri - Add a free loan calculator to your website or "
+"webstore and lend your customers to send a free application and choose an "
+"affordable loan from the comparison."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sortter Oy"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://sortter.fi"
+msgstr ""
